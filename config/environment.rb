@@ -1,1 +1,1 @@
-require "./spec/bundler_spec.rb"
+require "../spec/bundler_spec.rb"
